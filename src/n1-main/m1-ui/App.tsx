@@ -11,6 +11,7 @@ export const App = () => {
         <Provider store={store}>
             <HashRouter>
                 <Header/>
+                {/*chi*/}
                 <Routing/>
             </HashRouter>
         </Provider>
